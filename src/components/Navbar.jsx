@@ -17,7 +17,7 @@ const Navbar = () => {
         },
         {
             id:3,
-            link:"portfolio",
+            link:"Services",
         },
         {
             id:4,
@@ -25,6 +25,10 @@ const Navbar = () => {
         },
         {
             id:5,
+            link:"Experience",
+        },
+        {
+            id:6,
             link:"contact"
         }
     ]
