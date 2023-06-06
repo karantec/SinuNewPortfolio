@@ -6,6 +6,9 @@ import About from './components/About'
 import Portfolio from './components/Portfolio'
 import Contact from './components/Contact'
 import Experience from './components/Experience'
+import Services from './components/Services'
+
+
 const App = () => {
   return (
     <div>
@@ -14,6 +17,7 @@ const App = () => {
      <Home/>
      <SocialIcons/>
      <About/>
+     <Services/>
      <Portfolio/>
      <Experience/>
      <Contact/>
