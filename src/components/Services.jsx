@@ -43,7 +43,7 @@ const Services = () => {
        
     ]
   return (
-    <div name="services" className="bg-gradient-to-b from-black to-gray-800 w-full text-white h-full shadow-xl">
+    <div name="Services" className="bg-gradient-to-b from-black to-gray-800 w-full text-white h-full shadow-xl">
         <div className='max-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full '>
             <div className='pt-8 text-center'>
                 <p className="text-4xl font-bold inline border-b-4
