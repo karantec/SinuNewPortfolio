@@ -44,7 +44,7 @@ const SocialIcons = () => {
           Resume <BsFillArrowUpLeftSquareFill size={20}/>
         </>
       ),
-      href:"https://drive.google.com/file/d/1elJziUrS5qGV0skGc49iU4TvqwfuWS3L/view?usp=sharing",
+      href:"https://drive.google.com/file/d/1BeqbdnAq9b9Eob09xOptG8p1VWffr3MO/view?usp=sharing",
       style:'rounded-br-md',
       download:true
     },
