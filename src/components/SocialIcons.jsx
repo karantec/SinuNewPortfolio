@@ -24,7 +24,7 @@ const SocialIcons = () => {
           Github <FaGithub size={20}/>
         </>
       ),
-      href:"https://github.com/karananu",
+      href:"https://github.com/karantec",
      
     },
     {
