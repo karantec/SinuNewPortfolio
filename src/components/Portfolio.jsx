@@ -14,7 +14,7 @@ const Portfolio = () => {
             id:2,
             src:"https://www.thestatesman.com/wp-content/uploads/2020/10/razorpay-logo-1024x683.jpg",
             title:"Razorpay Clone",
-            Demo:"https://zomatoapp.vercel.app/",
+            Demo:"#",
             Link1:"Check it here"
             
         },
