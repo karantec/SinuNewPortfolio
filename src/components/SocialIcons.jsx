@@ -14,7 +14,7 @@ const SocialIcons = () => {
           LinkedIN <FaLinkedin size={20}/>
         </>
       ),
-      href:"https://www.linkedin.com/in/karantech/",
+      href:"www.linkedin.com/in/karanrana30",
       style:'rounded-tr-md'
     },
     {
@@ -34,7 +34,7 @@ const SocialIcons = () => {
           Mail <HiOutlineMail size={20}/>
         </>
       ),
-      href:"mailtO:foo@gmail.com",
+      href:"mailtO:karanrana3095@gmail.com",
       
     },
     {
@@ -44,7 +44,7 @@ const SocialIcons = () => {
           Resume <BsFillArrowUpLeftSquareFill size={20}/>
         </>
       ),
-      href:"https://drive.google.com/file/d/1BeqbdnAq9b9Eob09xOptG8p1VWffr3MO/view?usp=sharing",
+      href:"https://drive.google.com/file/d/1-_06Duexh9aycCFHT3Ct73SFFPRSusnW/view?usp=sharing",
       style:'rounded-br-md',
       download:true
     },
@@ -63,10 +63,10 @@ const SocialIcons = () => {
       id:6,
       child:(
           <>
-          Geeks for Geeks <BsFillFileCodeFill size={20}/>
+          CodeChef <BsFillFileCodeFill size={20}/>
         </>
       ),
-      href:"https://auth.geeksforgeeks.org/user/karanrana3095/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user",
+      href:"https://www.codechef.com/users/technosonu",
       style:'rounded-br-md',
     
     },

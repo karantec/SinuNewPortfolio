@@ -12,15 +12,15 @@ const Portfolio = () => {
         },
         {
             id:2,
-            src:"https://www.thestatesman.com/wp-content/uploads/2020/10/razorpay-logo-1024x683.jpg",
-            title:"Razorpay Clone",
-            Demo:"#",
+            src:"visualizer.png",
+            title:"SoringVisualizer",
+            Demo:"https://sorting-visualizer-psi-wheat.vercel.app/",
             Link1:"Check it here"
             
         },
         {
             id:3,
-            src:"https://www.tagvenue.com/blog/wp-content/uploads/2020/02/clay-banks-1Uj0HmqQFGk-unsplash-1024x683-1.jpg",
+            src:"ddplanne.png",
             title:"Dream Day Planner",
             Demo:"https://ddplanner.in/",
             Link1:"Check it here"
@@ -48,16 +48,16 @@ const Portfolio = () => {
         },
         {
             id:7,
-            src: "https://media.tenor.com/9E4evARoDzwAAAAd/offer-advice-some-advice.gif",
-            title:"ReactAdviveApp",
-            Demo:"https://react-advice-app-two.vercel.app/",
+            src: "remotedash.png",
+            title:"Remote Dashboard",
+            Demo:"https://remote-dashboard-final.vercel.app/",
             Link1:"Check it here"
         },
         {
             id:8,
-            src: "https://www.quleiss.com/wp-content/uploads/2023/03/eCommerce-1024x683.webp",
-            title:"Ecomerce Store for Girls",
-            Demo:"#",
+            src: "commerce.png",
+            title:"Ecomerce Store ",
+            Demo:"https://ecommerce-react-silk.vercel.app/",
             Link1:"Check it here"
         },
         {
@@ -68,12 +68,28 @@ const Portfolio = () => {
             Link1:"Check it here"
         },
         {
-            id:10,
-            src: "https://crowdbotics.ghost.io/content/images/2021/09/EdTech.png",
-            title:"StudyNotion (Mern Stack)",
-            Demo:"#",
+            id:11,
+            src: "letscode.png",
+            title:"Letscode Website",
+            Demo:"https://www.lets-code.co.in/service",
             Link1:"Check it here"
         },
+        {
+            id:12,
+            src: "remote.png",
+            title:"letsRemoteApp",
+            Demo:"https://letsremotejob.com/",
+            Link1:"Check it here"
+        },
+        
+        {
+            id:14,
+            src: "agri.png",
+            title:"TradeTrailsApp",
+            Demo:"https://tradetrails.in/",
+            Link1:"Check it here"
+        },
+
     ]
   return (
     <div name="portfolio" className="bg-gradient-to-b from-black to-gray-800 w-full text-white h-full">

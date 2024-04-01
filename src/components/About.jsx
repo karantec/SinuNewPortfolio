@@ -8,13 +8,12 @@ const About = () => {
             <div className='pt-12'>
             <p className="text-4xl font-bold inline border-b-4 border-gray-500 mt-12">About</p>
             </div>
-            <p className=' text-xl mt-20 '>I am graduated in 2023 from B.A college of Engineering and Technology , Jamshedpur  
-             with an Agreegate CGPA OF 87.7 . I  am an experienced professional and workin as a freelancer for the 4 years along with the job 
-             to make myself stronger enough to be  a very dynamic and versatlie in nature . By the nature I am a very calm and cool minded person who love to handled 
-             thing calmy and patiently </p>
+            <p className=' text-xl mt-20 '>As a Software Engineer, I thrive on developing products that not only meet the needs of today but also anticipate the challenges of tomorrow. I believe in the power of entrepreneurship to drive change and create opportunities for growth and innovation.
+Throughout my career, I have been dedicated to pushing the boundaries of what is possible. Whether it's developing scalable solutions, implementing advanced technologies, or fostering a culture of collaboration and creativity, I am committed to delivering excellence in everything I do.
+
+ </p>
                 <br/>
-                <p className='text-xl'>Regarding My tech Skill ,  I am proficient in Mern Stack and Asp.net Web Application and  comfortable to work on it.I am a Competitive Programmer & a Full StackWeb Developer proficient in DSA and Development likely  to invest to give time to problem solving .
-                 When it comes to coding language, my primary language is C++. I am open to learn new things on Tech domains.
+                <p className='text-xl'>My journey has been shaped by a spirit of curiosity and a drive to make a difference. I believe in the power of technology to empower individuals and communities, and I am passionate about leveraging my skills to create meaningful change.
                 </p>
         </div>
     </div>

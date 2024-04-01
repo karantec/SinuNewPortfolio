@@ -7,9 +7,9 @@ const Home = () => {
         <div className='max-w-screen-lg max-auto flex flex-col items-center  h-full px-4 md:flex-row'>
           <div className='flex flex-col justify-center h-full  '>
             <h2 className='text-3xl sm:text-5xl  font-bold  text-white mt-20 py-15 md:flex-col'>I am a Full <br/> <span className='text-blue-500'>Stack  Developer</span></h2>
-             <p className=' py-4 max-w-md text-white'>  I am a  4 years of Experience of  building and desing sofware. I love to work on Full stack Application and  love to gives more time
-             in utilizing my skill and my development as   to grow as professional full stack web developer . Being strong enough to build a strong full stack application and 
-             from the beginning as to the final. I love to work on building and deveping apps . </p>
+             <p className=' py-4 max-w-md text-white'>  I am a visionary Software Engineer passionate about innovation, growth, and entrepreneurship. With a forward-thinking mindset, I drive product development and contribute to cutting-edge solutions that make a positive impact.
+
+My journey in software engineering has been marked by a relentless pursuit of growth and contribution. Through hands-on experience and continuous learning, I have cultivated a deep understanding of technology and its potential to transform industries. </p>
                 <Link to="portfolio" smooth-duration={500} className="text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-purple-400 to-pink-500
                 cursor-pointer group ">
                     Projects 
